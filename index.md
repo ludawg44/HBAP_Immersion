@@ -1,4 +1,3 @@
-## Home
 ![image](https://cdn2.2u.com/content/ce611efa3791400688c60bfd1c797ce0/HBAP-Logo-792x338.png)
 
 ### Introduction
@@ -15,23 +14,29 @@ We hope that you find this useful and are able to collaborate with your fellow H
 
 ## Schedule
 
-Mandatory immersion schedule: 
-- Sunday: Registration, drinks and a light dinner at the hotel
-- Monday: Classes
-- Tuesday: Classes & ceremony
+### Mandatory immersion schedule
+
+| Day | Event|
+| -------- | ----------------------------- |
+| Sunday| Registration, drinks & dinner|
+| Monday | Classes |
+| Tuesday | Classes & ceremony|
+
 For more information, reach out to your student success advisor
 
-Social schedule (brought to you by this group):
-- Friday: 
-- Saturday:
-- Sunday: 
-- Monday: Dinner
-- Tuesday: 
-- Wednesday: 
+### Social schedule
+
+| Day | Event|
+| -------- | ----------------------------- |
+| Friday | Pending |
+| Saturday | Pending |
+| Sunday| Pending|
+| Monday | The Hourly Oyster House |
+| Tuesday | Odyssey Cruise |
 
 ## Venues
 
-Monday Dinner
+The Hourly Oyster House
 - Image
 - Map
 - Time
@@ -40,7 +45,7 @@ Monday Dinner
 - Brief description
 - Payment Instructions/Information
 
-Tuesday Boat Trip
+Odyssey Cruise
 - Image
 - Map
 - Time
@@ -49,7 +54,7 @@ Tuesday Boat Trip
 - Brief description
 - Payment Instructions/Information
 
-Wednesday Tour
+Harvard Tour
 - Image
 - Map
 - Time
@@ -61,7 +66,32 @@ Wednesday Tour
 
 ## Committee 
 
-- Name, photo, HBAP email, linkedin
+Scott Suckow
+  - scott.suckow@mail.analytics.hbs.edu
+  
+Miranda Pontes
+  - miranda.pontes@mail.analytics.hbs.edu
+  
+Najwa Khazal
+  - najwa.khazal@mail.analytics.hbs.edu
+  
+Christina Chew
+  - christina.chew@mail.analytics.hbs.edu
+  
+Junwei Luo
+  - junwei.luo@mail.analytics.hbs.edu
+  
+Wanda Lee
+  - wanda.lee@mail.analytics.hbs.edu
+ 
+Ferdous Alam
+  - ferdous.alam@mail.analytics.hbs.edu
+  
+Luis Vera
+  - luis.vear@mail.analytics.hbs.edu
+  
+Alex Davidoff
+  - alex.davidoff@mail.analytics.hbs.edu
 
 ## Your Expectations
 
