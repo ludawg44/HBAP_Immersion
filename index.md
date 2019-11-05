@@ -1,5 +1,4 @@
 ![image](https://cdn2.2u.com/content/ce611efa3791400688c60bfd1c797ce0/HBAP-Logo-792x338.png)
----
 ### Introduction
 
 Welcome fellow HBAPers! We created this site to help inform, connect and guide first time and second time immersion participants. We’ve taken the advice, suggestions and consult from prior graduating classes and feel this is the best way to enhance your immersion experience - whether it’s your first or last. 
@@ -77,45 +76,27 @@ Pending
 Hashtags for Facebook, Instagram, Snapchat
   - #hbap
   - #hbapjanimmersion
+
 LinkedIn
   - #hbap
 
 ## Swag
-
 T-shirt Info - Pending
 
 ## Registration 
-
 Pending
 
 ## Committee 
 
-Scott Suckow
-  - scott.suckow@mail.analytics.hbs.edu
-
-Miranda Pontes
-  - miranda.pontes@mail.analytics.hbs.edu
-
-Najwa Khazal
-  - najwa.khazal@mail.analytics.hbs.edu
-
-Christina Chew
-  - christina.chew@mail.analytics.hbs.edu
-
-Junwei Luo
-  - junwei.luo@mail.analytics.hbs.edu
-
-Wanda Lee
-  - wanda.lee@mail.analytics.hbs.edu
-
-Ferdous Alam
-  - ferdous.alam@mail.analytics.hbs.edu
-
-Luis Vera
-  - luis.vear@mail.analytics.hbs.edu
-
-Alex Davidoff
-  - alex.davidoff@mail.analytics.hbs.edu
+- [Scott Suckow](scott.suckow@mail.analytics.hbs.edu)
+- [Miranda Pontes](miranda.pontes@mail.analytics.hbs.edu)
+- [Najwa Khazal](najwa.khazal@mail.analytics.hbs.edu)
+- [Christina Chew](christina.chew@mail.analytics.hbs.edu)
+- [Junwei Luo](junwei.luo@mail.analytics.hbs.edu)
+- [Wanda Lee](wanda.lee@mail.analytics.hbs.edu)
+- [Ferdous Alam](ferdous.alam@mail.analytics.hbs.edu)
+- [Luis Vera](luis.vear@mail.analytics.hbs.edu)
+- [Alex Davidoff](alex.davidoff@mail.analytics.hbs.edu)
 
 ## Volunteer
 Pending
