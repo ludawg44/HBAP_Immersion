@@ -1,37 +1,96 @@
-## Welcome to GitHub Pages
+## Home
 
-You can use the [editor on GitHub](https://github.com/ludawg44/jan_immersion.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome fellow HBAPers! We created this site to help inform, connect and guide first time and second time immersion participants. We’ve taken the advice, suggestions and consult from prior graduating classes and feel this is the best way to enhance your immersion experience - whether it’s your first or last. 
 
-### Markdown
+### Who We Are
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We’re a collective group spanning multiple cohorts. Spearheaded by Scott Suckow, we are united to improve your social experience during the immersion. 
 
-```markdown
-Syntax highlighted code block
+### What We Want to Accomplish
 
-# Header 1
-## Header 2
-### Header 3
+We hope that you find this useful and are able to collaborate with your fellow HBAPers to maximize your time during the immersion. We do not have any affiliation or are partnered with the program or school. We’re full-time, part-time students of the program volunteering on our own. We don’t get paid for this. 
 
-- Bulleted
-- List
+## Schedule
 
-1. Numbered
-2. List
+Mandatory immersion schedule: 
+- Sunday: Registration, drinks and a light dinner at the hotel
+- Monday: Classes
+- Tuesday: Classes & ceremony
+For more information, reach out to your student success advisor
 
-**Bold** and _Italic_ and `Code` text
+Social schedule (brought to you by this group):
+- Friday: 
+- Saturday:
+- Sunday: 
+- Monday: Dinner
+- Tuesday: 
+- Wednesday: 
 
-[Link](url) and ![Image](src)
-```
+## Venues
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Monday Dinner
+- Image
+- Map
+- Time
+- Address
+- Committee leads
+- Brief description
+- Payment Instructions/Information
 
-### Jekyll Themes
+Tuesday Boat Trip
+- Image
+- Map
+- Time
+- Address
+- Committee leads
+- Brief description
+- Payment Instructions/Information
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ludawg44/jan_immersion.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Wednesday Tour
+- Image
+- Map
+- Time
+- Address
+- Committee leads
+- Brief description
+- Payment Instructions/Information
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Committee 
+
+- Name, photo, HBAP email, linkedin
+
+## Your Expectations
+
+Guidance to Immersion 1 attendees
+
+Guidance to Immersion 2 attendees
+
+Guidance for International Travelers
+
+Guidance around Boston 
+
+Guidance for families
+
+Hashtag
+
+## Swag
+
+T-shirt Info
+
+## Registration 
+
+Pending
+
+## Volunteer
+
+Pending
+
+## Feedback
+
+## Contact Us
+
+
+
