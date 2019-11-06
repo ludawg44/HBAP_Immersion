@@ -17,9 +17,9 @@ We hope that you find this useful and are able to collaborate with your fellow H
 
 | Day | Event|
 | :--------: | :-----------------------------: |
-| **Sunday**| Registration, drinks & dinner|
-| **Monday** | Classes |
-| **Tuesday** | Classes & ceremony|
+| **Sunday** Jan. 13 | Registration, drinks & dinner|
+| **Monday** Jan. 14 | Classes |
+| **Tuesday** Jan. 15 | Classes & ceremony|
 
 For more information, reach out to your student success advisor.
 
@@ -27,14 +27,14 @@ For more information, reach out to your student success advisor.
 
 | Day | Event|
 | :--------: | :-----------------------------: |
-| **Friday** | Pending |
-| **Saturday** | Football watching|
-| **Sunday**| Pending|
-| **Monday** | The Hourly Oyster House |
-| **Tuesday** | Odyssey Cruise |
-| **Wednesday** | Harvard Tour |
+| **Friday** Jan. 11 | Pending |
+| **Saturday** Jan. 12 | NFL Playoff |
+| **Sunday** Jan. 13 | Pending|
+| **Monday** Jan. 14 | The Hourly Oyster House |
+| **Tuesday** Jan. 15 | Odyssey Cruise |
+| **Wednesday** Jan. 16 | Harvard Tour |
 
-## Venues
+## Event Info
 
 [The Hourly Oyster House](https://www.thehourlycambridge.com)
 ![image](https://www.thehourlycambridge.com/wp-content/uploads/2016/09/cropped.jpg)
@@ -64,44 +64,50 @@ For more information, reach out to your student success advisor.
 ## Your Expectations
 
 Guidance to Immersion 1 attendees
-Pending
+**Pending**
 
 Guidance to Immersion 2 attendees
-Pending
+**Pending**
 
 Guidance for families
-Pending
+**Pending**
 
 Social Media
-Hashtags for Facebook, Instagram, Snapchat, LinkedIN
+- Hashtags for Facebook, Instagram, Snapchat, LinkedIn
   - #hbap
   - #hbapjanimmersion
 
 ## Swag
-T-shirt Info - Pending
+
+Every graduating cohort has found a theme that encompasses their HBAP experience. This year we're try to encompass all attending cohorts. Stay tuned for more information on how to get your cohort's T-shirt. 
+
+If you want swag from the university, please visit [The Coop's](https://store.thecoop.com/ecomm-collections/harvard-business-analytics-program-887/e/collection/) website. 
 
 ## Registration
-Pending
+**Pending**
 
 ## Committee 
 
-- [Scott Suckow](scott.suckow@mail.analytics.hbs.edu)
-- [Miranda Pontes](miranda.pontes@mail.analytics.hbs.edu)
-- [Najwa Khazal](najwa.khazal@mail.analytics.hbs.edu)
-- [Christina Chew](christina.chew@mail.analytics.hbs.edu)
-- [Junwei Luo](junwei.luo@mail.analytics.hbs.edu)
-- [Wanda Lee](wanda.lee@mail.analytics.hbs.edu)
-- [Ferdous Alam](ferdous.alam@mail.analytics.hbs.edu)
-- [Luis Vera](luis.vear@mail.analytics.hbs.edu)
-- [Alex Davidoff](alex.davidoff@mail.analytics.hbs.edu)
+- [Ferdous Alam](ferdous.alam@mail.analytics.hbs.edu) - Website
+- [Christina Chew](christina.chew@mail.analytics.hbs.edu) - Tuesday cruise & swag
+- [Alex Davidoff](alex.davidoff@mail.analytics.hbs.edu) - NFL playoff
+- [Najwa Khazal](najwa.khazal@mail.analytics.hbs.edu) - Monday dinner
+- [Wanda Lee](wanda.lee@mail.analytics.hbs.edu) - Swag
+- [Junwei Luo](junwei.luo@mail.analytics.hbs.edu) - Tours
+- [Miranda Pontes](miranda.pontes@mail.analytics.hbs.edu) - Monday dinner
+- [Scott Suckow](scott.suckow@mail.analytics.hbs.edu) - Immersion leadership
+- [Luis Vera](luis.vear@mail.analytics.hbs.edu) - Website
 
 ## Volunteer
-Pending
+
+If you're interested interested in helping out, please contact Scott Suckow. 
 
 ## Feedback
-Pending
+
+Your feedback is critical to our continuous improvement on HBAP social gatherings, ran by your fellow cohort members. We'd love to hear from you. They'll be a survey link provided in the near future. 
 
 ## Contact Us
-Pending
+
+Do you want access to this GitHub repository? Contact Ferdous or Luis. 
 
 
