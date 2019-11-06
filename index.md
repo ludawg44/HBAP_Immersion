@@ -1,5 +1,5 @@
 ![image](https://cdn2.2u.com/content/ce611efa3791400688c60bfd1c797ce0/HBAP-Logo-792x338.png)
-## Introduction
+## INTRODUCTION
 
 Welcome fellow HBAPers! We created this site to help inform, connect and guide first time and second time immersion participants. We’ve taken the advice, suggestions and consult from prior graduating classes and feel this is the best way to enhance your immersion experience - whether it’s your first or last. 
 
@@ -11,7 +11,7 @@ We’re a collective group spanning multiple cohorts. Spearheaded by Scott Sucko
 
 We hope that you find this useful and are able to collaborate with your fellow HBAPers to maximize your time during the immersion. We do not have any affiliation or are partnered with the program or school. We’re full-time, part-time students of the program volunteering on our own. We don’t get paid for this. 
 
-## Schedule
+## SCHEDULE
 
 ### HBAP Immersion Schedule
 
@@ -23,7 +23,7 @@ We hope that you find this useful and are able to collaborate with your fellow H
 
 For more information, reach out to your student success advisor.
 
-### Social schedule
+### Social Schedule
 
 | Day | Event|
 | :--------: | :-----------------------------: |
@@ -34,7 +34,7 @@ For more information, reach out to your student success advisor.
 | **Tuesday** Jan. 15 | Odyssey Cruise |
 | **Wednesday** Jan. 16 | Harvard Tour |
 
-## Event Info
+## EVENT INFO
 
 [The Hourly Oyster House](https://www.thehourlycambridge.com)
 ![image](https://www.thehourlycambridge.com/wp-content/uploads/2016/09/cropped.jpg)
@@ -61,15 +61,15 @@ For more information, reach out to your student success advisor.
 - **Attire**: Please dress appropriately
 - **Payment Instructions/Information**: Pending
 
-## Your Expectations
+## EXPECTATIONS FOR
 
-Guidance to Immersion 1 attendees
+Immersion 1 Attendees
 **Pending**
 
-Guidance to Immersion 2 attendees
+Immersion 2 Attendees
 **Pending**
 
-Guidance for families
+Guidance for Families
 **Pending**
 
 Social Media
@@ -77,16 +77,16 @@ Social Media
   - #hbap
   - #hbapjanimmersion
 
-## Swag
+## SWAG
 
 Every graduating cohort has found a theme that encompasses their HBAP experience. This year we're try to encompass all attending cohorts. Stay tuned for more information on how to get your cohort's T-shirt. 
 
 If you want swag from the university, please visit [The Coop's](https://store.thecoop.com/ecomm-collections/harvard-business-analytics-program-887/e/collection/) website. 
 
-## Registration
+## REGISTRATION
 **Pending**
 
-## Committee 
+## COMMITTEE
 
 - [Ferdous Alam](ferdous.alam@mail.analytics.hbs.edu) - Website
 - [Christina Chew](christina.chew@mail.analytics.hbs.edu) - Tuesday cruise & swag
@@ -98,15 +98,15 @@ If you want swag from the university, please visit [The Coop's](https://store.th
 - [Scott Suckow](scott.suckow@mail.analytics.hbs.edu) - Immersion leadership
 - [Luis Vera](luis.vear@mail.analytics.hbs.edu) - Website
 
-## Volunteer
+## VOLUNTEER
 
 If you're interested interested in helping out, please contact Scott Suckow. 
 
-## Feedback
+## FEEDBACK
 
 Your feedback is critical to our continuous improvement on HBAP social gatherings, ran by your fellow cohort members. We'd love to hear from you. They'll be a survey link provided in the near future. 
 
-## Contact Us
+## CONTACT US
 
 Do you want access to this GitHub repository? Contact Ferdous or Luis. 
 
