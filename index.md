@@ -64,12 +64,15 @@ For more information, reach out to your student success advisor.
 ## EXPECTATIONS FOR
 
 Immersion 1 Attendees
+
 **Pending**
 
 Immersion 2 Attendees
+
 **Pending**
 
 Guidance for Families
+
 **Pending**
 
 Social Media
@@ -84,6 +87,7 @@ Every graduating cohort has found a theme that encompasses their HBAP experience
 If you want swag from the university, please visit [The Coop's](https://store.thecoop.com/ecomm-collections/harvard-business-analytics-program-887/e/collection/) website. 
 
 ## REGISTRATION
+
 **Pending**
 
 ## COMMITTEE
