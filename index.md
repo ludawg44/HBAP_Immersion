@@ -72,8 +72,7 @@ Immersion 2 Attendees
 Guidance for Families
 - **Pending**
 
-Social Media
-- Hashtags for Facebook, Instagram, Snapchat, LinkedIn
+Social Media (Hashtags for Facebook, Instagram, Snapchat, LinkedIn)
   - #hbap
   - #hbapjanimmersion
 
