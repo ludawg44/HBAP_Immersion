@@ -17,9 +17,9 @@ We hope that you find this useful and are able to collaborate with your fellow H
 
 | Day | Event|
 | :--------: | :-----------------------------: |
-| **Sunday** Jan. 13 | Registration, drinks & dinner|
-| **Monday** Jan. 14 | Classes |
-| **Tuesday** Jan. 15 | Classes & ceremony|
+| **Sunday**, Jan. 13 | Registration, drinks & dinner|
+| **Monday**, Jan. 14 | Classes |
+| **Tuesday**, Jan. 15 | Classes & ceremony|
 
 For more information, reach out to your student success advisor.
 
@@ -27,12 +27,12 @@ For more information, reach out to your student success advisor.
 
 | Day | Event|
 | :--------: | :-----------------------------: |
-| **Friday** Jan. 11 | Pending |
-| **Saturday** Jan. 12 | NFL Playoff |
-| **Sunday** Jan. 13 | Pending|
-| **Monday** Jan. 14 | The Hourly Oyster House |
-| **Tuesday** Jan. 15 | Odyssey Cruise |
-| **Wednesday** Jan. 16 | Harvard Tour |
+| **Friday**, Jan. 11 | Pending |
+| **Saturday**, Jan. 12 | NFL Playoff |
+| **Sunday**, Jan. 13 | Pending|
+| **Monday**, Jan. 14 | The Hourly Oyster House |
+| **Tuesday**, Jan. 15 | Odyssey Cruise |
+| **Wednesday**, Jan. 16 | Harvard Tour |
 
 ## EVENT INFO
 
